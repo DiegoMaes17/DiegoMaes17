@@ -27,7 +27,7 @@ Lately, I've become more interested in Python to pursue my goal of becoming a fu
 
   🟢 💻 Enthusiast of development and emerging technologies 
 
-  🟢 😌 Rebuilding my portfolio [DiegoMadrid.vercel](https://astro-portafolio.vercel.app/)
+  🟢 😌 My portfolio [DiegoMadrid.vercel](https://diegom-portafolio.vercel.app/)
 
   🟢  💬 Ask me about TailwindCSS, React, MySql
 
@@ -37,9 +37,12 @@ Lately, I've become more interested in Python to pursue my goal of becoming a fu
 
 </p>
 
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,astro,dotnet,mysql,django,py,cs,donet,go)](https://skillicons.dev)
 
-### Solid skills: 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,astro,bootstrap,dotnet,git,github,mysql,react,vscode,npm,)](https://skillicons.dev)
+### Tools: 
+[![My Skills](https://skillicons.dev/icons?i=npm,github,gitlab,notion,postgres,postman)](https://skillicons.dev)
+
 
 
 ### Learning:
