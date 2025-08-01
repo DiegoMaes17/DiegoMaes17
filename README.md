@@ -38,18 +38,15 @@ Lately, I've become more interested in Python to pursue my goal of becoming a fu
 </p>
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,astro,dotnet,mysql,django,py,cs,donet,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,astro,dotnet,mysql,django,py,donet,go)](https://skillicons.dev)
 
 ### Tools: 
 [![My Skills](https://skillicons.dev/icons?i=npm,github,gitlab,notion,postgres,postman)](https://skillicons.dev)
 
 
 
-### Learning:
-[![My Skills](https://skillicons.dev/icons?i=py,qt,django)](https://skillicons.dev)
-
 ### Interested in: 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,cs,django,docker,flask,firebase,graphql,kali,mongodb,nestjs,solidity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,docker,flask,firebase,graphql,mongodb,nestjs,solidity)](https://skillicons.dev)
 
 
 ## Github Stats &nbsp;📊
