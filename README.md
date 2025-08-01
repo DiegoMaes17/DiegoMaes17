@@ -38,7 +38,7 @@ Lately, I've become more interested in Python to pursue my goal of becoming a fu
 </p>
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,astro,dotnet,mysql,django,py,donet,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,astro,dotnet,mysql,django,py,go,cs)](https://skillicons.dev)
 
 ### Tools: 
 [![My Skills](https://skillicons.dev/icons?i=npm,github,gitlab,notion,postgres,postman)](https://skillicons.dev)
